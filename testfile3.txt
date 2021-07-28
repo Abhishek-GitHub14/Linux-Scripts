@@ -1,1 +1,2 @@
 this is test file 3.
+ this is 3rd line.
